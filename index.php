@@ -2,6 +2,9 @@
 echo "Hello World";
 echo "test";
 
-for ($i=0 5; $i < 5 ; $i++) { 
-    echo $i;
+if (true) {
+    for ($i=0; $i < 5 ; $i++) { 
+        echo $i;
+    }
 }
+
