@@ -7,4 +7,6 @@ if (true) {
         echo $i;
     }
 }
+
+echo "test";
 ?>
